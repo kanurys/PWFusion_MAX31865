@@ -1,0 +1,7 @@
+{
+  "name": "PID_v1",
+  "author": "Brett Beauregard",
+  "license": "Open",
+  "version": "0.0.1",
+  "description": "Library for PID control"
+}
